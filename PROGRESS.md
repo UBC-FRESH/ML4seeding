@@ -1,4 +1,4 @@
-# [▓▓▓▓▓▓▓░░░] 75% Progress 
+# ⏳ Progress 
 
 This file records the poject progress.
 
