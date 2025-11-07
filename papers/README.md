@@ -1,4 +1,4 @@
-# papers/
+# papers
 
 This folder stores **reference papers and related research**.
 
