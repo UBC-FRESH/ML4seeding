@@ -14,8 +14,8 @@ This project trains a **U-Net based semantic segmentation** model to high-resolu
 
 ## 📁 Repository Structure
 
-- docs/ # Project documentation (data protocol, model card, assumptions)
-- examples/ # Usage examples and demonstration notebooks/scripts
-- papers/ # Related research and references
-- src/ # Source code (data pipeline, models, training, inference)
-- tests/ # Unit tests to ensure correctness and reproducibility
+- docs
+- examples
+- papers
+- src
+- tests
