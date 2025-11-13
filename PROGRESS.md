@@ -13,3 +13,4 @@ Oct. 2025:
 
 Nov. 2025:
 - [x] Practicing U-net Semantic Segmenation architecture
+- [x] Went over an example of aerial images
