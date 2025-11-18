@@ -14,3 +14,5 @@ Oct. 2025:
 Nov. 2025:
 - [x] Practicing U-net Semantic Segmenation architecture
 - [x] Went over an example of aerial images
+- [x] Prepare a pipeline of unet model to train different datasets
+- [x] Trained a small test data using unet model
