@@ -1,0 +1,23 @@
+{
+  "tile_name": "tile_x1488_y0_s512",
+  "image_file": "tile_x1488_y0_s512.png",
+  "x_off_px": 1488,
+  "y_off_px": 0,
+  "tile_size_px": 512,
+  "overlap_px": 128,
+  "stride_px": 384,
+  "bands": [
+    1,
+    2,
+    3
+  ],
+  "crs": "EPSG:32610",
+  "transform": [
+    0.05,
+    0.0,
+    500074.4,
+    0.0,
+    -0.05,
+    5450000.0
+  ]
+}
