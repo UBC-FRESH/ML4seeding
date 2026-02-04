@@ -1,0 +1,18 @@
+# ⏳ Progress 
+
+This file records the poject progress.
+
+Sept. 2025:
+- [x] Reviewed literature on drone-assisted seeding 
+
+Oct. 2025:
+- [x] Obtained data from Integrated Remote Sensing Studio research lab 
+- [x] Analyzed the images and content 
+- [x] Finished Andrew Ng's deep learning course 
+- [x] Reviewed papers on ML algorithms for computer vision application 
+
+Nov. 2025:
+- [x] Practicing U-net Semantic Segmenation architecture
+- [x] Went over an example of aerial images
+- [x] Prepare a pipeline of unet model to train different datasets
+- [x] Trained a small test data using unet model
