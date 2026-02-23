@@ -1,3 +1,4 @@
 # Raster imagery
 *.tif
 example_tiles_out/
+tiles_out/
