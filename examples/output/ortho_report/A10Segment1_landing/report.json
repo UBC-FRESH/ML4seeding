@@ -1,0 +1,122 @@
+{
+  "ortho_path": "data_set/orthomosaic/A10Segment1_landing.tif",
+  "rgb_bands": [
+    1,
+    2,
+    3
+  ],
+  "samples": {
+    "n_samples": 30,
+    "window_size_px": 1024
+  },
+  "metadata": {
+    "driver": "GTiff",
+    "dtype_per_band": [
+      "uint8",
+      "uint8",
+      "uint8",
+      "uint8"
+    ],
+    "band_count": 4,
+    "width_px": 40079,
+    "height_px": 36543,
+    "crs": "EPSG:32610",
+    "pixel_size_x": 0.0015500000000000002,
+    "pixel_size_y": 0.0015500000000000002,
+    "bounds": {
+      "left": 531586.2132100001,
+      "bottom": 5456902.951770001,
+      "right": 531648.3356600001,
+      "top": 5456959.593420001
+    },
+    "coverage_width_m": 62.1224500000244,
+    "coverage_height_m": 56.64164999965578,
+    "coverage_area_m2": 3518.7180700224985,
+    "coverage_area_ha": 0.35187180700224985,
+    "coverage_area_km2": 0.0035187180700224983,
+    "nodata": null
+  },
+  "band_stats_sampled": {
+    "R": {
+      "min": 2.0,
+      "p2": 39.0,
+      "p50": 96.0,
+      "p98": 217.0,
+      "max": 255.0,
+      "mean": 104.34568361001094,
+      "std": 43.558616126436235
+    },
+    "G": {
+      "min": 1.0,
+      "p2": 36.0,
+      "p50": 93.0,
+      "p98": 213.0,
+      "max": 255.0,
+      "mean": 101.32756279248083,
+      "std": 44.102132132789244
+    },
+    "B": {
+      "min": 0.0,
+      "p2": 26.0,
+      "p50": 80.0,
+      "p98": 197.0,
+      "max": 255.0,
+      "mean": 87.86527499754428,
+      "std": 42.4102824737962
+    }
+  },
+  "nodata_black_estimates": {
+    "black_threshold_used": 5,
+    "black_fraction_mean": 0.45086355209350587,
+    "black_fraction_p50": 3.6716461181640625e-05,
+    "black_fraction_p95": 1.0,
+    "nodata_fraction_mean": null,
+    "nodata_fraction_p50": null,
+    "nodata_fraction_p95": null
+  },
+  "rgb_indices_sampled": {
+    "ExG": {
+      "min": -27.0,
+      "p2": -8.0,
+      "p50": 3.0,
+      "p98": 85.0,
+      "max": 206.0,
+      "mean": 10.444167137145996,
+      "std": 22.611980438232422
+    },
+    "VARI": {
+      "min": -0.9999998211860657,
+      "p2": -0.19872193038463593,
+      "p50": -0.04444444552063942,
+      "p98": 0.22807016968727112,
+      "max": 12000000.0,
+      "mean": 5.689706802368164,
+      "std": 8286.4169921875
+    },
+    "GRVI": {
+      "min": -0.7499999403953552,
+      "p2": -0.13385826349258423,
+      "p50": -0.024390242993831635,
+      "p98": 0.15025906264781952,
+      "max": 0.8666666150093079,
+      "mean": -0.018807590007781982,
+      "std": 0.060759853571653366
+    }
+  },
+  "sharpness_sampled": {
+    "laplacian_variance_mean": 1434.3434450361465,
+    "laplacian_variance_p50": 1482.6001586914062,
+    "laplacian_variance_p10": 785.3898315429688,
+    "laplacian_variance_p90": 2093.5239746093753,
+    "edge_density_mean": 0.050013595157199435,
+    "edge_density_p50": 0.0500030517578125
+  },
+  "notes": [
+    "Stats computed from random windows to stay fast on huge orthomosaics.",
+    "If you want full-raster stats, I can provide a block-wise pass (slower)."
+  ],
+  "outputs": {
+    "report_json": "output/ortho_report/A10Segment1_landing/report.json",
+    "quicklook_png": "output/ortho_report/A10Segment1_landing/quicklook.png"
+  }
+}
