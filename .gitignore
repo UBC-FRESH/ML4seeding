@@ -5,4 +5,4 @@ raw_drone_images/
 compressed_jpgs/
 *.zip
 tiles_512/
-
+tiles_out_pseudo_ortho/
