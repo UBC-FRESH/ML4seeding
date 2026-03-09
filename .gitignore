@@ -6,3 +6,8 @@ compressed_jpgs/
 *.zip
 tiles_512/
 tiles_out_pseudo_ortho/
+test_predictions_a10_segment1/
+test_predictions_a58_segment1/
+images/
+masks/
+
